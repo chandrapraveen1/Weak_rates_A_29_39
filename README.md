@@ -1,3 +1,8 @@
+%%   Apr. 25, 2025 %%%%%%%%%
+%%  S. Sharma, P. C. Praveen and  T Suzuki  %%%%%%
+%% praveen,srivastava@ph.iitr.ac.in %%%%%
+
+
 e-capture and beta-decay rates for sd-shell nuclei (A=29-39) obtained with USDB
 Coulomb effects are included.
 Available experimental excitation energies and B(GT) are taken into account.
